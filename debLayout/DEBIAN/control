@@ -1,0 +1,9 @@
+Package: us.nakedproductions.onecalldeletion
+Name: OneCallDeletion
+Depends: mobilesubstrate
+Version: 0.8
+Architecture: iphoneos-arm
+Description: Deletion a call at at time
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
